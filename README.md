@@ -10,7 +10,7 @@ This project consists of two Python scripts, `generate_log.py` for generating lo
 #### Dependencies:
 - None
 
-#### Steps to Run the Scripts:
+## Steps to Run the Scripts:
 
 1. Clone or download the repository to your local machine.
 2. Ensure you have Python 3.x installed.
